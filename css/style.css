@@ -56,7 +56,7 @@ li {
   --hero-heading-color: #003b99;
   --white-color: #ffffff;
   --para-color: #504e4d;
-  --bnt-hover-bg-color: #003b99;
+  --btn-hover-bg-color: #003b99;
   --btn-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   --footer-bg-color: #040d12;
 }
@@ -150,7 +150,7 @@ li {
 /* states */
 
 .btn:hover {
-  background-color: var(--bnt-hover-bg-color);
+  background-color: var(--btn-hover-bg-color);
   cursor: pointer;
   box-shadow: var(--btn-box-shadow);
 }
