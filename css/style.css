@@ -641,7 +641,7 @@ textarea {
 
 input:focus-visible,
 textarea:focus-visible {
-  outline: 0.1rem solid var(--bnt-hover-bg-color);
+  outline: 0.1rem solid var(--btn-hover-bg-color);
 }
 
 /***** End actual contact page Section *****/
@@ -700,7 +700,7 @@ footer .grid {
 
       &:hover {
         color: var(--supporting-color);
-        background-color: var(--bnt-hover-bg-color);
+        background-color: var(--btn-hover-bg-color);
         rotate: 360deg;
       }
     }
