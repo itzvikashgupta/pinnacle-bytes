@@ -679,13 +679,12 @@ footer .grid {
   & .social-footer--icons {
     display: flex;
     gap: 2.4rem;
-    color: var(--main-color);
 
     & .fa-brands {
       width: 5rem;
       aspect-ratio: 1;
       background-color: var(--supporting-color);
-      color: var(--bnt-hover-bg-color);
+      color: var(--btn-hover-bg-color);
       border-radius: 50%;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
