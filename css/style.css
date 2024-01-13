@@ -679,6 +679,7 @@ footer .grid {
   & .social-footer--icons {
     display: flex;
     gap: 2.4rem;
+    color: var(--main-color);
 
     & .fa-brands {
       width: 5rem;
